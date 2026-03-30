@@ -1,0 +1,65 @@
+﻿0m364 Learning Materials License v1.0
+Copyright © 2026 0m364. All rights reserved.
+1. Purpose
+This License applies to any learning materials, educational content, course documents, cheat sheets, tutorials, presentations, diagrams, exercises, examples, reference notes, or related materials released by 0m364 under this License, whether provided in digital, printed, audio, visual, or mixed-media form (the “Materials”).
+By accessing, copying, using, sharing, or modifying the Materials, you agree to be bound by this License.
+2. Ownership
+The Materials are and remain the intellectual property of 0m364, unless otherwise explicitly stated in writing.
+This License grants limited permission to use the Materials. It does not transfer ownership, authorship, trademark rights, patent rights, or any other intellectual property rights.
+3. Permission Granted
+Subject to the terms of this License, 0m364 grants you a limited, non-exclusive, non-transferable, revocable license to:
+use the Materials for personal learning, self-study, research, and internal educational purposes;
+copy and store the Materials for your own use;
+share the unmodified Materials with other individuals for non-commercial educational purposes;
+adapt or modify the Materials for your own personal or internal learning use.
+4. Attribution Requirement
+Any permitted sharing, redistribution, excerpting, or reuse of the Materials must clearly attribute the original source to:
+0m364
+A reasonable attribution statement is:
+“Original learning materials by 0m364. Used under the 0m364 Learning Materials License v1.0.”
+You may add your own name for modifications, but you may not remove, obscure, or replace the original attribution to 0m364.
+5. Non-Commercial Use Only
+You may not sell, license, monetize, bundle, paywall, or otherwise commercially exploit the Materials, whether in original or modified form, without prior written permission from 0m364.
+This includes, without limitation:
+selling copies of the Materials;
+including the Materials in paid courses, subscription platforms, consulting packages, or training products;
+using the Materials to market or promote a paid service;
+republishing the Materials on ad-supported or monetized platforms in a way primarily intended to generate revenue from the Materials.
+6. No Relicensing or Sublicensing
+You may not sublicense the Materials or reissue them under a different license without prior written permission from 0m364.
+Modified versions of the Materials may be used privately or internally as permitted by this License, but they remain subject to this License and may not be relicensed as your own unrestricted work.
+7. Modification Rules
+You may modify the Materials for personal or internal educational use, provided that:
+you do not falsely claim authorship of the original Materials;
+you clearly identify substantial modifications if you share them;
+you do not remove attribution to 0m364 from the original portions;
+you do not represent the modified Materials as endorsed by 0m364 unless written permission is given.
+A reasonable notice for shared modifications is:
+“Based on original materials by 0m364. Modified by [Your Name/Organization].”
+8. Prohibited Uses
+You may not:
+use the Materials in violation of applicable law;
+use the Materials in a way that falsely implies endorsement, affiliation, certification, or sponsorship by 0m364;
+remove copyright, attribution, license, or authorship notices;
+redistribute the Materials in a misleading, deceptive, or deliberately incomplete way that misrepresents the original content;
+use the Materials as training data for commercial machine learning systems without prior written permission from 0m364.
+9. Educational and Informational Use Only
+The Materials are provided for educational and informational purposes only.
+They are not guaranteed to be complete, accurate, current, safe, legally sufficient, or suitable for any particular purpose, certification, examination, job role, operational environment, or regulatory requirement.
+You are solely responsible for verifying any technical, legal, regulatory, operational, or safety-critical information before relying on it.
+10. No Warranty
+THE MATERIALS ARE PROVIDED “AS IS” AND “AS AVAILABLE”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF ACCURACY, COMPLETENESS, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, OR NON-INFRINGEMENT.
+0m364 does not warrant that the Materials will be error-free, uninterrupted, secure, or suitable for your intended use.
+11. Limitation of Liability
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, 0m364 SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, OR FOR ANY LOSS OF DATA, PROFITS, REVENUE, BUSINESS, OPPORTUNITY, OR GOODWILL, ARISING OUT OF OR RELATED TO THE USE OF OR INABILITY TO USE THE MATERIALS, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+YOUR USE OF THE MATERIALS IS ENTIRELY AT YOUR OWN RISK.
+12. Termination
+This License automatically terminates if you violate any of its terms.
+Upon termination, you must stop using and distributing the Materials and destroy or remove any copies in your possession or control, except where retention is required by law.
+Sections concerning ownership, attribution, disclaimers, limitation of liability, termination, and governing law shall survive termination.
+13. Governing Law
+This License shall be governed by and construed in accordance with the laws of the Commonwealth of Virginia, United States of America, without regard to conflict of law principles.
+Any dispute arising under or related to this License shall be brought in a court of competent jurisdiction located in Virginia, unless 0m364 agrees otherwise in writing.
+14. Entire Agreement
+This License is the entire agreement governing use of the Materials unless a separate written agreement signed by 0m364 applies.
+If any provision of this License is found unenforceable, the remaining provisions shall remain in full force and effect.
